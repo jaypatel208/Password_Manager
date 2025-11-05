@@ -32,7 +32,7 @@ A secure and user-friendly password manager application built with Jetpack Compo
 📹 [Watch App Demo](assets/app_screen_recording.webm)
 
 ### Download APK
-📦 [Download APK](assets/APk/app-debug.apk)
+📦 [Download APK](assets/app-debug.apk)
 
 ## ✨ Features Implemented
 
