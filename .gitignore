@@ -1,6 +1,7 @@
 # Android/IntelliJ
 .idea/
 .gradle/
+.kotlin/
 build/
 captures/
 local.properties
