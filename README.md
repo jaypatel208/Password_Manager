@@ -28,8 +28,15 @@ A secure and user-friendly password manager application built with Jetpack Compo
   </tr>
 </table>
 
+<div align="center">
+
 ### Video Demo
-📹 [Watch App Demo](assets/app_screen_recording.webm)
+
+https://github.com/user-attachments/assets/80212f06-deed-4ea0-9adc-332b209e15b1
+
+</div>
+
+
 
 ### Download APK
 📦 [Download APK](assets/app-debug.apk)
