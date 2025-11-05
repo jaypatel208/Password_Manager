@@ -1,15 +1,22 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Android/IntelliJ
+.idea/
+.gradle/
+build/
+captures/
 local.properties
+
+# Kotlin Multiplatform
+*.kotlin_metadata
+
+# Gradle
+!gradle-wrapper.jar
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Keystore
+*.jks
+*.keystore
